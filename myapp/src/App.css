@@ -49,6 +49,7 @@ background-color: white;
   color: rgb(241, 237, 237);
   padding: 10px;
   margin:5px;
+  border: transparent;
 }
 .delete{
   background-color: rgb(255, 234, 0);
